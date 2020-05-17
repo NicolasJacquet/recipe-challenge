@@ -5,9 +5,9 @@ This project is a coding challenge to introduce Vuejs environement.
 ---
 ### The challenge
 Create an app with a search bar that allows you to search and list recipes.
+Online preview available [here](https://recipe-challenge-qgrjk6fyq.now.sh/)
 
 ---
-
 
 **Constraints:**
 
